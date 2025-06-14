@@ -1,0 +1,16 @@
+          Welcome To Cafe Management System
+ Bill Number:8182
+ Customer Name:aed
+ Contact Number:4456778877
+ Customer Address:guhagar
+ Order Type: Take
+ Date: 02-05-2025			 Time: 08:37 PM
+====================================
+ Product		QTY		Price
+====================================
+ Mashroom Pizza		2		158.00
+====================================
+ Sub Total:			158.00
+ Discount:			0.00
+ Total:			158.00
+====================================

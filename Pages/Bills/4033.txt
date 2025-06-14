@@ -1,0 +1,15 @@
+          Welcome To Cafe Management System
+ Bill Number:4033
+ Customer Name:asd
+ Contact Number:7868678687
+ Order Type: Dine
+ Date: 02-05-2025			 Time: 09:00 PM
+====================================
+ Product		QTY		Price
+====================================
+ Special Pizza		3		297.00
+====================================
+ Sub Total:			297.00
+ Discount:			0.00
+ Total:			297.00
+====================================

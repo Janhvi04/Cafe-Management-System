@@ -1,0 +1,15 @@
+          Welcome To Cafe Management System
+ Bill Number:1388
+ Customer Name:siddhi
+ Contact Number:9832798482
+ Date: 24-04-2025			 Time: 09:46 AM
+====================================
+ Product		QTY		Price
+====================================
+ americano		15		2850.00
+ cold coffee		3		294.00
+====================================
+ Sub Total:			3144.00
+ Discount:			62.88
+ Total:			3081.12
+====================================

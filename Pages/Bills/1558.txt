@@ -1,0 +1,15 @@
+          Welcome To Cafe Management System
+ Bill Number:1558
+ Customer Name:swarangi
+ Contact Number:8989878767
+ Order Type: Dine
+ Date: 03-05-2025			 Time: 09:39 AM
+====================================
+ Product		QTY		Price
+====================================
+ Americano		2		171.00
+====================================
+ Sub Total:			171.00
+ Discount:			8.55
+ Total:			162.45
+====================================

@@ -1,0 +1,15 @@
+          Welcome To Cafe Management System
+ Bill Number:9081
+ Customer Name:
+ Contact Number:
+ Order Type: Dine
+ Date: 30-04-2025			 Time: 11:00 AM
+====================================
+ Product		QTY		Price
+====================================
+ americano		6		1140.00
+====================================
+ Sub Total:			1140.00
+ Discount:			57.00
+ Total:			1083.00
+====================================

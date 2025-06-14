@@ -1,0 +1,15 @@
+          Welcome To Cafe Managment System
+ Bill Number:9221
+ Customer Name:Janhvi
+ Contact Number:232145655
+ Date: 22-04-2025			 Time: 08:52 PM
+====================================
+ Product		QTY		Price
+====================================
+ Black Coffee		5		750.00
+ americano		3		600.00
+====================================
+ Sub Total:			1350.00
+ Discount:			0.00
+ Total:			1350.00
+====================================

@@ -1,0 +1,16 @@
+          Welcome To Cafe Management System
+ Bill Number:4917
+ Customer Name:Isha
+ Contact Number:9098675633
+ Customer Address:Guhagar
+ Order Type: Take
+ Date: 03-05-2025			 Time: 09:41 AM
+====================================
+ Product		QTY		Price
+====================================
+ Chicken Pizza		3		253.65
+====================================
+ Sub Total:			253.65
+ Discount:			12.68
+ Total:			240.97
+====================================

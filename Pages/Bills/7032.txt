@@ -1,0 +1,15 @@
+          Welcome To Cafe Management System
+ Bill Number:7032
+ Customer Name:priti
+ Contact Number:8607712345
+ Order Type: Dine
+ Date: 03-05-2025			 Time: 01:01 PM
+====================================
+ Product		QTY		Price
+====================================
+ Chocolate Coffee		1		27.00
+====================================
+ Sub Total:			27.00
+ Discount:			2.70
+ Total:			24.30
+====================================

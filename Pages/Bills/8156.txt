@@ -1,0 +1,16 @@
+          Welcome To Cafe Management System
+ Bill Number:8156
+ Customer Name:ssa
+ Contact Number:5665678776
+ Customer Address:dsad
+ Order Type: Take
+ Date: 02-05-2025			 Time: 09:11 PM
+====================================
+ Product		QTY		Price
+====================================
+ Lemon Tea		2		60.00
+====================================
+ Sub Total:			60.00
+ Discount:			0.00
+ Total:			60.00
+====================================

@@ -1,0 +1,16 @@
+          Welcome To Cafe Management System
+ Bill Number:7138
+ Customer Name:isha
+ Contact Number:7878787898
+ Customer Address:hedavi
+ Order Type: Take
+ Date: 02-05-2025			 Time: 12:48 PM
+====================================
+ Product		QTY		Price
+====================================
+ Cappuccino		3		210.00
+====================================
+ Sub Total:			210.00
+ Discount:			0.00
+ Total:			210.00
+====================================

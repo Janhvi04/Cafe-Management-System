@@ -1,0 +1,15 @@
+          Welcome To Cafe Management System
+ Bill Number:4122
+ Customer Name:abc
+ Contact Number:9576545465
+ Order Type: Dine
+ Date: 02-05-2025			 Time: 08:35 PM
+====================================
+ Product		QTY		Price
+====================================
+ Chocolate Coffee		3		90.00
+====================================
+ Sub Total:			90.00
+ Discount:			0.00
+ Total:			90.00
+====================================
